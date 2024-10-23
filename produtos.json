@@ -3,7 +3,7 @@
         "nome": "Calça Vermelha",
         "tamanho": 42,
         "preco": 139.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/calça-vermelha.jpeg"
     },
     {
         "nome": "Camiseta Básica",
@@ -15,24 +15,24 @@
         "nome": "Jaqueta de Couro Thriller",
         "tamanho": "G",
         "preco": 200.00,
-        "imagem": "img/jaqueta.jpeg"
+        "imagem": "img/thriller.jpeg"
     },
     {
         "nome": "Sapato Social Preto",
         "tamanho": "40/41",
         "preco": 190.99,
-        "imagem": "img/sapato.jpeg"
+        "imagem": "img/sapatos.jpeg"
     },
     {
         "nome": "Lentes de Sol",
         "tamanho": 25,
         "preco": 59.90,
-        "imagem": "img/lentes.jpeg"
+        "imagem": "img/óculos.jpeg"
     },
     {
         "nome": "Luva",
         "tamanho": "M",
         "preco": 45.90,
-        "imagem": "img/luvas.jpeg"
+        "imagem": "img/luva.jpeg"
     }.  
 ]
